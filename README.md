@@ -11,6 +11,10 @@ In this project, let's build **Nxt Watch** by applying the concepts we have lear
 </div>
 <br/>
 
+
+https://github.com/user-attachments/assets/2f13063e-a790-4596-821e-8d904e781f36
+
+
 **Failure View** <br/>
 
 <div style="text-align: center;">
@@ -19,6 +23,10 @@ In this project, let's build **Nxt Watch** by applying the concepts we have lear
   </video>
 </div>
 <br/>
+
+
+https://github.com/user-attachments/assets/edf415c3-ffdb-4544-b258-f6b910920e58
+
 
 ### Design Files
 
